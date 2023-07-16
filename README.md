@@ -29,4 +29,4 @@ https://store.shopping.yahoo.co.jp/orangepicoshop/pico-r-002.html
 https://store.shopping.yahoo.co.jp/orangepicoshop/pico-c-001.html
 
 EMUZ80-6809LED  
-https://github.com/satoshiokue/EMUZ6809-LED  
+https://github.com/satoshiokue/EMUZ80-6809LED  
